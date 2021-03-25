@@ -5,4 +5,4 @@ Project is composed of 4 notebooks that should be opened in the following order:
 3. evaluate_Rewritting: Generates the results (BERT and LMD) for the raw queries and re-writen queries.
 4. visualizeResults: Visualize the results obtained in the previous steps.
 
-PS: Don't forget to put the T5_canar.zip in the main folder!
+PS: The T5 algorithm will not work since it's missing the pre trained algorithm.
